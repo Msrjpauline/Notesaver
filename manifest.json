@@ -1,0 +1,11 @@
+{
+  "name": "mynotesaver",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Native messaging host",
+  "path": "NoteSaver.exe",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://epfkghkgaacocfimcnpcdigchobacged/"
+  ]
+}
